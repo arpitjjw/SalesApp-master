@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\SalesApp-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-or\\values-or.xml",
+            "outputFile": "C:\\Users\\acer\\Desktop\\SalesApp-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-or\\values-or.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\gitesh\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4dd8108bba891b55699e3d6570eea6ed\\res\\values-or\\values.xml",
+                    "source": "C:\\Users\\acer\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\97f2dcef0fa7b6d5a41f5bf0695e3084\\res\\values-or\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\gitesh\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.0.1.aar\\d390ef6fab45edbdf2dda082b90a55f4\\res\\values-or\\values.xml",
+                    "source": "C:\\Users\\acer\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.0.1.aar\\2e7d6d216f10141f88ce2de3b1a98297\\res\\values-or\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

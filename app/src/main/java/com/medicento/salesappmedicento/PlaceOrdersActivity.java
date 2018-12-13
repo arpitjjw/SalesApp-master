@@ -265,7 +265,13 @@ public class PlaceOrdersActivity extends AppCompatActivity
                                 }
                             }
                         } catch (final JSONException e) {
-                            Toast.makeText(PlaceOrdersActivity.this, "Json parsing error: " + e.getMessage(), Toast.LENGTH_SHORT).show();
+                            runOnUiThread(new Runnable() {
+                                @Override
+                                public void run() {
+                                    Toast.makeText(PlaceOrdersActivity.this, "Json parsing error: " + e.getMessage(), Toast.LENGTH_SHORT).show();
+                                }
+                            });
+
                             Log.e("Gitesh", "Json parsing error: " + e.getMessage());
                             runOnUiThread(new Runnable() {
                                 @Override
