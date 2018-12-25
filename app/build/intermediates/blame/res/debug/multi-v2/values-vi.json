@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\acer\\Desktop\\SalesApp-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-vi\\values-vi.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\e4e28aab1b4b829882085dd502fdd15e\\res\\values-vi\\values-vi.xml",
+                    "source": "C:\\Users\\acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\8203b6305adc641f178d5a114841eef1\\res\\values-vi\\values-vi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\acer\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\4e270781276b37d1d0fcc1e6bbad1848\\res\\values-vi\\values-vi.xml",
+                    "source": "C:\\Users\\acer\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\0dadfd8a5510a16c09d54fb9d2f889e8\\res\\values-vi\\values-vi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

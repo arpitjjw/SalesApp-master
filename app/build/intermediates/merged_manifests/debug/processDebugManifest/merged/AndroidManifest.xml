@@ -51,15 +51,20 @@
             android:label="Sales App Medicento"
             android:launchMode="singleInstance"
             android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.medicento.salesappmedicento.pharmacyRegister" />
+        <activity android:name="com.medicento.salesappmedicento.recover" />
+        <activity
+            android:name="com.medicento.salesappmedicento.StatsActivity"
             android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity android:name="com.medicento.salesappmedicento.demoActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.medicento.salesappmedicento.pharmacyRegister" />
-        <activity android:name="com.medicento.salesappmedicento.recover" />
         <activity
             android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
             android:excludeFromRecents="true"
@@ -102,9 +107,6 @@
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
-        <meta-data
-            android:name="android.arch.lifecycle.VERSION"
-            android:value="27.0.0-SNAPSHOT" />
     </application>
 
 </manifest>

@@ -4,6 +4,23 @@
             "outputFile": "C:\\Users\\acer\\Desktop\\SalesApp-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fi\\values-fi.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\8203b6305adc641f178d5a114841eef1\\res\\values-fi\\values-fi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,313,414,500,605,723,810,892,972,1079,1182,1279,1385,1484,1588,1751,1850",
+                        "endColumns": "107,99,100,85,104,117,86,81,79,106,102,96,105,98,103,162,98,79",
+                        "endOffsets": "208,308,409,495,600,718,805,887,967,1074,1177,1274,1380,1479,1583,1746,1845,1925"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,313,414,500,605,723,810,892,972,1079,1182,1279,1385,1484,1588,1751,4510",
+                        "endColumns": "107,99,100,85,104,117,86,81,79,106,102,96,105,98,103,162,98,79",
+                        "endOffsets": "208,308,409,495,600,718,805,887,967,1074,1177,1274,1380,1479,1583,1746,1845,4585"
+                    }
+                },
+                {
                     "source": "C:\\Users\\acer\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.0.1.aar\\2e7d6d216f10141f88ce2de3b1a98297\\res\\values-fi\\values.xml",
                     "from": {
                         "startLines": "4",
@@ -38,24 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\e4e28aab1b4b829882085dd502fdd15e\\res\\values-fi\\values-fi.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,213,313,414,500,605,723,810,892,972,1079,1182,1279,1385,1484,1588,1751,1850",
-                        "endColumns": "107,99,100,85,104,117,86,81,79,106,102,96,105,98,103,162,98,79",
-                        "endOffsets": "208,308,409,495,600,718,805,887,967,1074,1177,1274,1380,1479,1583,1746,1845,1925"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,213,313,414,500,605,723,810,892,972,1079,1182,1279,1385,1484,1588,1751,4510",
-                        "endColumns": "107,99,100,85,104,117,86,81,79,106,102,96,105,98,103,162,98,79",
-                        "endOffsets": "208,308,409,495,600,718,805,887,967,1074,1177,1274,1380,1479,1583,1746,1845,4585"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\acer\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\4e270781276b37d1d0fcc1e6bbad1848\\res\\values-fi\\values-fi.xml",
+                    "source": "C:\\Users\\acer\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\0dadfd8a5510a16c09d54fb9d2f889e8\\res\\values-fi\\values-fi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

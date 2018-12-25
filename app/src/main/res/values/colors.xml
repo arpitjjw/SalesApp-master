@@ -8,4 +8,6 @@
     <color name="colorGreen">#1b5e20</color>
     <color name="colorGreenLight">#98cf65</color>
     <color name="colorGreenDark">#376f00</color>
+    <color name="gradEnd">#EF9A9A</color>
+    <color name="gradStart">#C62828</color>
 </resources>

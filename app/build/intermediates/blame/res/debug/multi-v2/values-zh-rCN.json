@@ -4,7 +4,24 @@
             "outputFile": "C:\\Users\\acer\\Desktop\\SalesApp-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\e4e28aab1b4b829882085dd502fdd15e\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "source": "C:\\Users\\acer\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\0dadfd8a5510a16c09d54fb9d2f889e8\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "38",
+                        "startColumns": "4",
+                        "startOffsets": "4112",
+                        "endColumns": "100",
+                        "endOffsets": "4208"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\8203b6305adc641f178d5a114841eef1\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -35,23 +52,6 @@
                         "startOffsets": "1731,1834,1995,2112,2216,2380,2498,2630,2909,3076,3179,3340,3457,3620,3758,3844,3931",
                         "endColumns": "102,160,116,103,163,117,131,120,166,102,160,116,162,137,85,86,102",
                         "endOffsets": "1829,1990,2107,2211,2375,2493,2625,2746,3071,3174,3335,3452,3615,3753,3839,3926,4029"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\acer\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\4e270781276b37d1d0fcc1e6bbad1848\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "38",
-                        "startColumns": "4",
-                        "startOffsets": "4112",
-                        "endColumns": "100",
-                        "endOffsets": "4208"
                     }
                 },
                 {
